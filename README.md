@@ -1,2 +1,1 @@
-# Appachhi-Sample
-FirstGIt Sample
+Appachhi
